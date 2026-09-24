@@ -29,7 +29,7 @@ The block below is machine-readable project info for a portfolio site (invisible
   "category": "game",
   "tagline": "A number guessing game where you find the secret number from 1 to 20 before your score runs out.",
   "description": "The game picks a random secret number between 1 and 20. Enter a guess and press Check to get a higher or lower hint, losing a point for each wrong guess. Guess correctly to win and set a high score, or press Again to start a new round.",
-  "liveUrl": null,
+  "liveUrl": "https://pickanumber.margotticode.com",
   "repoUrl": "https://github.com/jgotti1/PickANumber",
   "thumbnail": "https://raw.githubusercontent.com/jgotti1/PickANumber/main/docs/preview.jpg",
   "tech": [
